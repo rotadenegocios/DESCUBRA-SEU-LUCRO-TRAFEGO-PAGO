@@ -37,6 +37,8 @@ export function trackLead({ itemId, itemName, ctaSource, email, phone }) {
     {
       metaParams: { content_ids: [itemId], content_name: itemName, content_type: 'product' },
       userData: { email, phone },
+      pixelEnabled: false,
+      capiOnly: true,
     },
   )
 }

@@ -55,7 +55,7 @@ function watchScroll() {
         track('scroll_depth', {
           percent_scrolled: step,
           time_to_reach_ms: Date.now() - state.startedAt,
-        })
+        }, { metaParams: { percent_scrolled: step } })
       }
     })
   }
