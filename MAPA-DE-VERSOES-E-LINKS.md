@@ -2,7 +2,7 @@
 
 ## Pasta oficial
 
-- Pasta apontada pelo workspace: `descubra-seu-lucro-trafego-pago01`
+- Projeto independente: `descubra-seu-lucro-01`
 - Status: oficial e atualizada
 - Projeto Vercel vinculado: `descubra-seu-lucro-trafego-pago`
 - Cópia auxiliar encontrada fora do workspace: `descubra-seu-lucro-trafego-pago02`
