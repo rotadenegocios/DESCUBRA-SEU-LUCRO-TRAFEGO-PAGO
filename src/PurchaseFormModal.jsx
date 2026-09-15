@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react'
-import { trackBeginCheckout, trackLead } from './tracking/index.js'
+import { trackLead } from './tracking/index.js'
 import './styles/purchase-form-modal.css'
 
 const EMPTY_FORM = {
@@ -172,12 +172,6 @@ export function PurchaseFormModal({
 
   function goToCheckout() {
     if (!checkoutReady) return
-    trackBeginCheckout({
-      itemId: page.slug,
-      itemName: page.title,
-      checkoutUrl: page.checkoutUrl,
-      ctaSource,
-    })
     setForm(EMPTY_FORM)
     window.location.assign(page.checkoutUrl)
   }
