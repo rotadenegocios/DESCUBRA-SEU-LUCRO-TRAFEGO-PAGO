@@ -17,6 +17,10 @@
       "destination": "https://kit-preco-certo-tf01.vercel.app/$1"
     },
     {
+      "source": "/:route*/assets/:asset*",
+      "destination": "/assets/:asset*"
+    },
+    {
       "source": "/((?!api/|assets/|videos/).*)",
       "destination": "/index.html"
     }
