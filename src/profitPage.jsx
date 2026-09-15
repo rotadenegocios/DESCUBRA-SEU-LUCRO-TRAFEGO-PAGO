@@ -16,7 +16,7 @@ export const profitPage = {
   eyebrow: 'Exclusivo para donos de negócio',
   headline: (
     <>
-      Descubra o lucro real da sua empresa e saiba <em>quanto pode retirar.</em>
+        Uma ferramenta simples para mostrar <em>o lucro real do seu negócio.</em>    
     </>
   ),
   subheadline:
