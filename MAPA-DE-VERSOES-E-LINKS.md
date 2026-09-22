@@ -51,7 +51,7 @@ A cópia `02` permanece fora do workspace como histórico/backup; a fonte oficia
 - Destino pago atual: `https://descubra-seu-lucro-tf01.vercel.app`
 - Atalho no BIO para tráfego: `https://www.bio.gesieudo.com/dsl-tf01`
 - Página orgânica do produto: `https://www.bio.gesieudo.com/descubra-seu-lucro`
-- Checkout: `https://payfast.greenn.com.br/m9nn32s`
+- Checkout: `https://payfast.greenn.com.br/redirect/320566`
 - Atendimento compartilhado: `https://api.whatsapp.com/send/?phone=5584991730656&text=Ol%C3%A1%21+Vim+pelo+Instagram+e+tenho+interesse+em+entender+melhor+como+a+%2ARota%2A+pode+ajudar+minha+empresa.Quero+ter+mais+clareza+sobre+%2Agest%C3%A3o%2C+lucro%2C+impostos%2C+organiza%C3%A7%C3%A3o+e+crescimento%2A.Pode+me+ajudar%3F&type=phone_number&app_absent=0`
 
 ## Regras de roteamento encontradas
