@@ -79,7 +79,7 @@ function BonusTabs({ title, tabs }) {
         <span>Bônus exclusivos</span>
         <h3>{title}</h3>
       </div>
-      <div className="bonus-tabs" role="tablist" aria-label="Bônus do Kit Preço Certo">
+      <div className="bonus-tabs" role="tablist" aria-label="Bônus do Precifique agora">
         {tabs.map((tab, index) => (
           <button
             type="button"
